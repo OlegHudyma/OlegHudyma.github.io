@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   jx-kh-check:
   - apiVersion: v2
-    appVersion: 0.0.79-restart-policy-fix
-    created: "2022-09-19T21:37:00.5930147+03:00"
+    appVersion: 0.0.80
+    created: "2022-09-19T21:41:48.5890751+03:00"
     description: Jenkins X next gen cloud CI / CD platform for Kubernetes
-    digest: b7271898d6f3df2d87d1339c4c857d960a443e584c06f2f13fe6aed2a024eaab
+    digest: 210fdba2cef3e2f61a01e6bf33cbc54e296642d65fd49f3330648ddf94a2e49c
     home: https://jenkins-x.io/
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-website/master/images/logo/jenkinsx-icon-color.svg
     maintainers:
@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/jenkins-x-plugins/jx-kh-check
     urls:
-    - https://oleghudyma.github.io/jx-kh-check-0.0.79-restart-policy-fix.tgz
-    version: 0.0.79-restart-policy-fix
-generated: "2022-09-19T21:37:00.5920126+03:00"
+    - https://oleghudyma.github.io/jx-kh-check-0.0.80.tgz
+    version: 0.0.80
+generated: "2022-09-19T21:41:48.5880765+03:00"
