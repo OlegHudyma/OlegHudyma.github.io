@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/jenkins-x-plugins/jx-kh-check
     urls:
-    - https://oleghudyma.github.io/jx-kh-check-0.0.79-restart-policy-fix.tgz
+    - jx-kh-check-0.0.79-restart-policy-fix.tgz
     version: 0.0.79-restart-policy-fix
 generated: "2022-09-19T20:29:55.1385883+03:00"
