@@ -3,9 +3,9 @@ entries:
   acme:
   - apiVersion: v1
     appVersion: 0.0.25
-    created: "2022-09-22T01:29:28.2500533+03:00"
+    created: "2022-09-22T01:39:39.6376423+03:00"
     description: Acme
-    digest: 0d63e0b5c28393bf7a7f7aca31dfb0a02229daf47be17d400507280636bc6eca
+    digest: 7c465c3d9e21e30eb5e3ec83dc0def6dbffa090d67153a401e677c20fbc63234
     icon: https://avatars2.githubusercontent.com/u/35583233?s=200&v=4
     name: acme
     urls:
@@ -14,7 +14,7 @@ entries:
   jx-kh-check:
   - apiVersion: v2
     appVersion: 0.0.80
-    created: "2022-09-22T01:29:28.2510508+03:00"
+    created: "2022-09-22T01:39:39.6382043+03:00"
     description: Jenkins X next gen cloud CI / CD platform for Kubernetes
     digest: 210fdba2cef3e2f61a01e6bf33cbc54e296642d65fd49f3330648ddf94a2e49c
     home: https://jenkins-x.io/
@@ -28,4 +28,4 @@ entries:
     urls:
     - https://oleghudyma.github.io/jx-kh-check-0.0.80.tgz
     version: 0.0.80
-generated: "2022-09-22T01:29:28.2490545+03:00"
+generated: "2022-09-22T01:39:39.6370955+03:00"
