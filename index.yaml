@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   acme:
   - apiVersion: v1
+    appVersion: 0.0.26
+    created: "2022-10-04T15:31:45.0593514+03:00"
+    description: Acme
+    digest: 00f27f0e443b3e30c2f944abb77110d9cb5836283c0de84b6256d7ac5bd73a93
+    icon: https://avatars2.githubusercontent.com/u/35583233?s=200&v=4
+    name: acme
+    urls:
+    - https://oleghudyma.github.io/acme-0.0.26.tgz
+    version: 0.0.26
+  - apiVersion: v1
     appVersion: 0.0.25
-    created: "2022-10-02T19:29:17.2914884+03:00"
+    created: "2022-10-04T15:31:45.0582391+03:00"
     description: Acme
     digest: 7c465c3d9e21e30eb5e3ec83dc0def6dbffa090d67153a401e677c20fbc63234
     icon: https://avatars2.githubusercontent.com/u/35583233?s=200&v=4
@@ -14,7 +24,7 @@ entries:
   godaddy-webhook:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2022-10-02T19:29:17.292051+03:00"
+    created: "2022-10-04T15:31:45.0606+03:00"
     description: A Helm chart for Kubernetes
     digest: bcdb2c93b382b737d6e1488923844343b9e969e8ab5e17929ab2a85ec090ed86
     name: godaddy-webhook
@@ -24,7 +34,7 @@ entries:
   jx-kh-check:
   - apiVersion: v2
     appVersion: 0.0.80
-    created: "2022-10-02T19:29:17.2933153+03:00"
+    created: "2022-10-04T15:31:45.0623957+03:00"
     description: Jenkins X next gen cloud CI / CD platform for Kubernetes
     digest: 210fdba2cef3e2f61a01e6bf33cbc54e296642d65fd49f3330648ddf94a2e49c
     home: https://jenkins-x.io/
@@ -38,4 +48,4 @@ entries:
     urls:
     - https://oleghudyma.github.io/jx-kh-check-0.0.80.tgz
     version: 0.0.80
-generated: "2022-10-02T19:29:17.2904606+03:00"
+generated: "2022-10-04T15:31:45.0097514+03:00"
